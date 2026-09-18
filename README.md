@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm vaishnavi Gangaraboina 
 
-<!--
-**Vaishnavi-gangaraboina/Vaishnavi-gangaraboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech EEE Student  
+💻 Interested in IoT, Embedded Systems & Networking  
+🌱 Currently learning Python & Machine Learning
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arduino
+- ESP32
+- Networking
+- Python
+- AutoCAD
+- Embedded Systems
+
+## 🚀 Projects
+
+- Smart Medication Reminder & Health Alert System
+- Intelligent Fire Safety Vehicle
+- Electrical Feeder & Busbar Project
+
+## 📚 Currently Learning
+
+- Python
+- Machine Learning
+- Git & GitHub
+
+## 🎯 Career Goal
+
+Interested in opportunities related to IoT, Embedded Systems, Networking and Technology.
